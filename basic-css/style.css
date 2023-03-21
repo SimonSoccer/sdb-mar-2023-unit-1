@@ -1,0 +1,13 @@
+#para1{
+    color: red;
+  }
+  
+  #para2 {
+    color: blue
+  }
+  
+  .paragraph{
+    font-size : 24px;
+    color: purple !important;
+}
+
